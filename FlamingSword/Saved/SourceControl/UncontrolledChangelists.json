@@ -9,8 +9,17 @@
 				"C:/Users/n013403n.STUDENT/Documents/GitHub/Izzet-s-Flaming-Sword/FlamingSword/Content/LVL_test.umap",
 				"C:/Users/n013403n.STUDENT/Documents/GitHub/Izzet-s-Flaming-Sword/FlamingSword/Content/Blueprints/BP_player.uasset",
 				"C:/Users/n013403n.STUDENT/Documents/GitHub/Izzet-s-Flaming-Sword/FlamingSword/Content/Blueprints/BP_player_controller.uasset",
-				"C:/Users/n013403n.STUDENT/Documents/GitHub/Izzet-s-Flaming-Sword/FlamingSword/Content/Blueprints/Gamemode/BP_gamemode_tesyt.uasset",
-				"C:/Users/n013403n.STUDENT/Documents/GitHub/Izzet-s-Flaming-Sword/FlamingSword/Content/Blueprints/Gamemode/BP_gamemode_test.uasset"
+				"C:/Users/n013403n.STUDENT/Documents/GitHub/Izzet-s-Flaming-Sword/FlamingSword/Content/Blueprints/Gamemode/BP_gamemode_test.uasset",
+				"C:/Users/n013403n.STUDENT/Documents/GitHub/Izzet-s-Flaming-Sword/FlamingSword/Content/Blueprints/Input/IMC_player.uasset",
+				"C:/Users/n013403n.STUDENT/Documents/GitHub/Izzet-s-Flaming-Sword/FlamingSword/Content/Blueprints/Interface/Input/BPI_player_input.uasset",
+				"C:/Users/n013403n.STUDENT/Documents/GitHub/Izzet-s-Flaming-Sword/FlamingSword/Content/Blueprints/Input/IA_player_movement.uasset",
+				"C:/Users/n013403n.STUDENT/Documents/GitHub/Izzet-s-Flaming-Sword/FlamingSword/Content/Blueprints/Input/IA_player_jump.uasset",
+				"C:/Users/n013403n.STUDENT/Documents/GitHub/Izzet-s-Flaming-Sword/FlamingSword/Content/Blueprints/Input/IA_sprint.uasset",
+				"C:/Users/n013403n.STUDENT/Documents/GitHub/Izzet-s-Flaming-Sword/FlamingSword/Content/Blueprints/Input/IA_player_sprint.uasset",
+				"C:/Users/n013403n.STUDENT/Documents/GitHub/Izzet-s-Flaming-Sword/FlamingSword/Content/Blueprints/Input/IA_player_look.uasset",
+				"C:/Users/n013403n.STUDENT/Documents/GitHub/Izzet-s-Flaming-Sword/FlamingSword/Content/Blueprints/Input/IA_player_inspect.uasset",
+				"C:/Users/n013403n.STUDENT/Documents/GitHub/Izzet-s-Flaming-Sword/FlamingSword/Content/Animation/Player/Idle/Sword_And_Shield_Idle.uasset",
+				"C:/Users/n013403n.STUDENT/Documents/GitHub/Izzet-s-Flaming-Sword/FlamingSword/Content/Blueprints/Gamemode/BP_gamemode_tesyt.uasset"
 			]
 		}
 	]
