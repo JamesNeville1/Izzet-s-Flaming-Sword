@@ -17,8 +17,6 @@
 				"C:/Users/n013403n.STUDENT/Documents/GitHub/Izzet-s-Flaming-Sword/FlamingSword/Content/Blueprints/Input/IA_player_sprint.uasset",
 				"C:/Users/n013403n.STUDENT/Documents/GitHub/Izzet-s-Flaming-Sword/FlamingSword/Content/Blueprints/Input/IA_player_look.uasset",
 				"C:/Users/n013403n.STUDENT/Documents/GitHub/Izzet-s-Flaming-Sword/FlamingSword/Content/Blueprints/Input/IA_player_inspect.uasset",
-				"C:/Users/n013403n.STUDENT/Documents/GitHub/Izzet-s-Flaming-Sword/FlamingSword/Content/Animation/Player/Idle/Sword_And_Shield_Idle.uasset",
-				"C:/Users/n013403n.STUDENT/Documents/GitHub/Izzet-s-Flaming-Sword/FlamingSword/Content/Animation/Player/Idle/Sword_And_Shield_Idle/Driving_Sword_And_Shield_Idle.uasset",
 				"C:/Users/n013403n.STUDENT/Documents/GitHub/Izzet-s-Flaming-Sword/FlamingSword/Content/Animation/Player/Walk/Happy_Walk_Backward.uasset",
 				"C:/Users/n013403n.STUDENT/Documents/GitHub/Izzet-s-Flaming-Sword/FlamingSword/Content/Animation/Player/Walk/Left_Strafe_Walk__1_.uasset",
 				"C:/Users/n013403n.STUDENT/Documents/GitHub/Izzet-s-Flaming-Sword/FlamingSword/Content/Animation/Player/Walk/Right_Strafe_Walk.uasset",
@@ -31,6 +29,9 @@
 				"C:/Users/n013403n.STUDENT/Documents/GitHub/Izzet-s-Flaming-Sword/FlamingSword/Content/Animation/Player/Attack.uasset",
 				"C:/Users/n013403n.STUDENT/Documents/GitHub/Izzet-s-Flaming-Sword/FlamingSword/Content/Animation/Player/Idle/Breathing_Idle.uasset",
 				"C:/Users/n013403n.STUDENT/Documents/GitHub/Izzet-s-Flaming-Sword/FlamingSword/Content/Blueprints/Jump.uasset",
+				"C:/Users/n013403n.STUDENT/Documents/GitHub/Izzet-s-Flaming-Sword/FlamingSword/Content/Animation/Player/Walk/Jog_Backward.uasset",
+				"C:/Users/n013403n.STUDENT/Documents/GitHub/Izzet-s-Flaming-Sword/FlamingSword/Content/Animation/Player/Idle/Sword_And_Shield_Idle.uasset",
+				"C:/Users/n013403n.STUDENT/Documents/GitHub/Izzet-s-Flaming-Sword/FlamingSword/Content/Animation/Player/Idle/Sword_And_Shield_Idle/Driving_Sword_And_Shield_Idle.uasset",
 				"C:/Users/n013403n.STUDENT/Documents/GitHub/Izzet-s-Flaming-Sword/FlamingSword/Content/Blueprints/Input/IA_sprint.uasset",
 				"C:/Users/n013403n.STUDENT/Documents/GitHub/Izzet-s-Flaming-Sword/FlamingSword/Content/Blueprints/Gamemode/BP_gamemode_tesyt.uasset"
 			]
