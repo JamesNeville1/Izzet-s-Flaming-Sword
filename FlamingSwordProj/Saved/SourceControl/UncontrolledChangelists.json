@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/n013403n.STUDENT/Documents/GitHub/Izzet-s-Flaming-Sword/FlamingSwordProj/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/n013403n.STUDENT/Documents/GitHub/Izzet-s-Flaming-Sword/FlamingSwordProj/Content/Animation/Player/Sword_And_Shield_Slash/Driving_Sword_And_Shield_Slash.uasset",
+				"C:/Users/n013403n.STUDENT/Documents/GitHub/Izzet-s-Flaming-Sword/FlamingSwordProj/Content/LVL_test.umap",
+				"C:/Users/n013403n.STUDENT/Documents/GitHub/Izzet-s-Flaming-Sword/FlamingSwordProj/Content/Animation/Player/Sword_And_Shield_Slash.uasset"
+			]
+		}
+	]
+}
