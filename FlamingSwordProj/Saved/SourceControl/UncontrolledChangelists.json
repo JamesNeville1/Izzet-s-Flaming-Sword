@@ -7,8 +7,6 @@
 			"files": [
 				"C:/Users/n013403n.STUDENT/Documents/GitHub/Izzet-s-Flaming-Sword/FlamingSwordProj/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/n013403n.STUDENT/Documents/GitHub/Izzet-s-Flaming-Sword/FlamingSwordProj/Content/LVL_test.umap",
-				"C:/Users/n013403n.STUDENT/Documents/GitHub/Izzet-s-Flaming-Sword/FlamingSwordProj/Content/Animation/Player/Sword_And_Shield_Slash.uasset",
-				"C:/Users/n013403n.STUDENT/Documents/GitHub/Izzet-s-Flaming-Sword/FlamingSwordProj/Content/Animation/Player/AB_player.uasset",
 				"C:/Users/n013403n.STUDENT/Documents/GitHub/Izzet-s-Flaming-Sword/FlamingSwordProj/Content/Animation/Player/AS_attack_combo.uasset",
 				"C:/Users/n013403n.STUDENT/Documents/GitHub/Izzet-s-Flaming-Sword/FlamingSwordProj/Content/Blueprints/BP_player.uasset",
 				"C:/Users/n013403n.STUDENT/Documents/GitHub/Izzet-s-Flaming-Sword/FlamingSwordProj/Content/Animation/Player/ABP_player.uasset",
@@ -18,6 +16,10 @@
 				"C:/Users/n013403n.STUDENT/Documents/GitHub/Izzet-s-Flaming-Sword/FlamingSwordProj/Content/Blueprints/Interface/Input/BPI_player_input.uasset",
 				"C:/Users/n013403n.STUDENT/Documents/GitHub/Izzet-s-Flaming-Sword/FlamingSwordProj/Content/Animation/Player/AM_attack_combo.uasset",
 				"C:/Users/n013403n.STUDENT/Documents/GitHub/Izzet-s-Flaming-Sword/FlamingSwordProj/Content/PolygonPrototype/Meshes/Characters/SKEL_Character_Dummy_Female_01.uasset",
+				"C:/Users/n013403n.STUDENT/Documents/GitHub/Izzet-s-Flaming-Sword/FlamingSwordProj/Content/Blueprints/BP_default_attack_combo_ping.uasset",
+				"C:/Users/n013403n.STUDENT/Documents/GitHub/Izzet-s-Flaming-Sword/FlamingSwordProj/Content/Blueprints/Interface/BPI_player_bridge.uasset",
+				"C:/Users/n013403n.STUDENT/Documents/GitHub/Izzet-s-Flaming-Sword/FlamingSwordProj/Content/Animation/Player/Sword_And_Shield_Slash.uasset",
+				"C:/Users/n013403n.STUDENT/Documents/GitHub/Izzet-s-Flaming-Sword/FlamingSwordProj/Content/Animation/Player/AB_player.uasset",
 				"C:/Users/n013403n.STUDENT/Documents/GitHub/Izzet-s-Flaming-Sword/FlamingSwordProj/Content/Animation/Player/Sword_And_Shield_Slash/Driving_Sword_And_Shield_Slash.uasset"
 			]
 		}
